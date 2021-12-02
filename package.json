@@ -4,7 +4,7 @@
     "description": "![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "dev": "vite"
     },
     "keywords": [],
     "author": "",
@@ -12,6 +12,7 @@
     "devDependencies": {
         "autoprefixer": "^10.4.0",
         "postcss": "^8.4.4",
-        "tailwindcss": "^2.2.19"
+        "tailwindcss": "^2.2.19",
+        "vite": "^2.6.14"
     }
 }
