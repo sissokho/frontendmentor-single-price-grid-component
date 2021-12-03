@@ -3,7 +3,8 @@ module.exports = {
     darkMode: false, // or 'media' or 'class'
     theme: {
         screens: {
-            tablet: '768px'
+            mobile: '375px',
+            desktop: '1440px'
         },
         colors: {
             cyan: 'hsl(179, 62%, 43%)',
