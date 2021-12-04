@@ -4,13 +4,16 @@
     "description": "![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)",
     "main": "index.js",
     "scripts": {
-        "dev": "vite"
+        "dev": "vite",
+        "build": "vite build",
+        "deploy": "npm run build && gh-pages -d dist"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "devDependencies": {
         "autoprefixer": "^10.4.0",
+        "gh-pages": "^3.2.3",
         "postcss": "^8.4.4",
         "tailwindcss": "^2.2.19",
         "vite": "^2.6.14"
