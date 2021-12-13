@@ -42,4 +42,4 @@ Users should be able to:
 
 - Frontend Mentor - [@sissokho](https://www.frontendmentor.io/profile/sissokho)
 - Twitter - [@mm_sissokho](https://twitter.com/mm_sissokho)
-- Linkedi - [Mouhamadou Moustapha SISSOKHO](https://www.linkedin.com/in/mouhamadou-moustapha-sissokho-548a55125/)
+- Linkedin - [Mouhamadou Moustapha SISSOKHO](https://www.linkedin.com/in/mouhamadou-moustapha-sissokho-548a55125/)
