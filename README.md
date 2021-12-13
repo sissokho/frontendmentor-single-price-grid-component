@@ -38,6 +38,7 @@ Users should be able to:
 - Tailwind CSS
 - CSS Grid
 - Mobile-first workflow
+
 ## Author
 
 - Frontend Mentor - [@sissokho](https://www.frontendmentor.io/profile/sissokho)
