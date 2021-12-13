@@ -32,7 +32,7 @@ Users should be able to:
 - Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-using-tailwind-css-and-css-grid-qxXs-eA45](https://www.frontendmentor.io/solutions/single-price-grid-component-using-tailwind-css-and-css-grid-qxXs-eA45)
 - Live Site URL: [https://sissokho.github.io/frontendmentor-single-price-grid-component/](https://sissokho.github.io/frontendmentor-single-price-grid-component/)
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - Tailwind CSS
